@@ -8,7 +8,7 @@
 TFT_eSPI tft = TFT_eSPI();       // Invoke custom library
 
 #define TFT_GREY 0x5AEB
-#define DHTPIN 27     // Digital pin connected to the DHT sensor
+#define DHTPIN 5     // Digital pin connected to the DHT sensor
 
 // Uncomment the type of sensor in use:
 //#define DHTTYPE    DHT11     // DHT 11
