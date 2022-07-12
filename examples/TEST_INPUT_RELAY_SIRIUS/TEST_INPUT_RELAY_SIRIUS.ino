@@ -1,7 +1,7 @@
 
 #define ON LOW
 #define OFF HIGH
-#define INPUT1 39
+#define INPUT1 36
 #define INPUT2 35
 #define Relay1 13
 #define Relay2 15
