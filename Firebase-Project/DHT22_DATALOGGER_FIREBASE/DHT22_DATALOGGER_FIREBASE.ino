@@ -17,8 +17,8 @@
 #define API_KEY "Insert Firebase project API Key"
 
 // Insert Authorized Email and Corresponding Password
-#define USER_EMAIL "watcharakorn.ch@ku.th"
-#define USER_PASSWORD "Ab456456*"
+#define USER_EMAIL "EMAIL"
+#define USER_PASSWORD "PASSWORD"
 
 // Insert RTDB URLefine the RTDB URL
 #define DATABASE_URL "Insert RTDB URLefine the RTDB URL"
