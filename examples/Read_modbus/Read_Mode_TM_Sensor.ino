@@ -2,7 +2,7 @@
   example using ModbusMaster library
 */
 
-#include "ModbusMaster.h"
+#include <ModbusMaster.h>
 
 // instantiate ModbusMaster object
 ModbusMaster myModbus;                    // สร้าง Modbus อ๊อปเจค
